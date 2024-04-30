@@ -1,0 +1,16 @@
+.main img {
+    margin-left: 100px;
+}
+
+@media screen and (max-width: 767px) {
+    .main img {
+        margin-left: 50px; /* Adjust margin for smaller screens */
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .main2 .col-md-3{
+        margin-left: 100px; /* Adjust margin for smaller screens */
+    }
+}
